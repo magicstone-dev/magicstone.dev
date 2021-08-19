@@ -2,9 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Home
 layout: home
+title: Home
 ---
+
 # We are creating magic through evolution of the Fediverse
 
 C4Social is applying C4 to decentralized social media.
