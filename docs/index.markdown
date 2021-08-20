@@ -8,7 +8,7 @@ title: Home
 
 # We are creating magic through evolution of the Fediverse
 
-C4Social is applying C4 to decentralized social media.
+C4Social is employing C4 to accelerate the development of decentralized social media.
 
 # What is C4?
 
