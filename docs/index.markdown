@@ -25,4 +25,4 @@ It’s short for Collective Code Construction Contract. A contract, a protocol, 
 
 # And where can I use it, see it in action?
 
-* [Mastodon @ C4.social](https://c4.social) (running commit: [2657d9d](https://github.com/weex/mastodon/commit/2657d9dc6e1d805a5d7760c956a1f846adb344fd), open for registration)
+* [Mastodon @ C4.social](https://c4.social) (running commit: [88a4b5b](https://github.com/weex/mastodon/commit/88a4b5bd9cbdf974a31d5eaea4603f1290b28a4e), open for registration)
