@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: FAQ
+permalink: /faq/
 ---
 
-## We are creating magic through evolution of the Fediverse
-
-C4Social is applying C4 to decentralized social media.
+## Frequently Asked Questions
 
 # What is C4?
 
@@ -18,5 +16,12 @@ More important than the game or the software or the market, is this thing called
 
 C4 is community-centric software development. We focus discussion almost entirely on problems and accept solutions freely. Automation and free collaborative platforms make it easy for anyone to help but ultimately it’s about laying out some rules then letting everyone do what they do best, alone or in groups of their choosing.
 
+# What is the purpose of this project in practical terms?
 
+The project exists to solve two problems. One is not enough contributors (docs, code, testing) on fediverse projects and the other is high-friction, slow development processes. Slow processes turn off contributors so I want to take merge time for patches from what can be weeks or months down to hours and days.
 
+The [C4 RFC](https://rfc.zeromq.org/spec/42/) defines a process where the merge speed depends on describing and valuing problems rather than reviewing and approving code. With this faster process, the hope is the community will grow and overall speed and quality will increase.
+
+# How is this different from what upstream/other projects are doing?
+
+The projects we've forked have done amazing work and created systems that are happily in use by many, many people. This project is about applying effort specifically to the two problems of contributor numbers and development velocity. In a perfect world, every project becomes more successful through community-focused development process.

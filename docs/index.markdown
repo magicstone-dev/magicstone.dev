@@ -14,15 +14,22 @@ C4Social is employing C4 to accelerate the development of decentralized social m
 
 It’s short for Collective Code Construction Contract. A contract, a protocol, a set of rules to a game we’re playing, C4 is for making accurate software on the internet.
 
-[Learn more](/about)
-
+[Learn more](/faq)
 
 # Enough chatter, show me the code.
 
-* [Mastodon Fork](https://github.com/weex/mastodon)
-* [diaspora\* Fork](https://github.com/weex/mastodon)
-* [c4-tools](https://github.com/weex/c4-tools) for making your own C4 fork
+* [Mastodon Fork](https://github.com/c4social/mastodon)
+* [diaspora\* Fork](https://github.com/c4social/diaspora)
+* [c4-tools](https://github.com/c4social/c4-tools) for making your own C4 fork
+* [this site](https://github.com/c4social/c4social.org)
 
-# And where can I use it, see it in action?
+# Where can I see it in action?
 
-* [Mastodon @ C4.social](https://c4.social) (running commit: [88a4b5b](https://github.com/weex/mastodon/commit/88a4b5bd9cbdf974a31d5eaea4603f1290b28a4e), open for registration)
+* [Mastodon @ C4.social](https://c4.social) (open for registration)
+* [diaspora\* @ Dogieda](https://dogieda.org) (open for registration)
+
+# Chat and Discussion 
+
+
+* [Discussion forum](https://github.com/c4social/c4social.org/discussions)
+* [Matrix chat](https://matrix.to/#/#c4social:matrix.org)
