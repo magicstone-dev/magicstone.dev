@@ -19,7 +19,7 @@ It’s short for Collective Code Construction Contract. A contract, a protocol, 
 # Enough chatter, show me the code.
 
 * [Mastodon Fork](https://github.com/c4social/mastodon)
-* [diaspora\* Fork](https://github.com/c4social/mastodon)
+* [diaspora\* Fork](https://github.com/c4social/diaspora)
 * [c4-tools](https://github.com/c4social/c4-tools) for making your own C4 fork
 * [this site](https://github.com/c4social/c4social.org)
 
