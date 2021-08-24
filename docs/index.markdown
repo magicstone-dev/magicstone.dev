@@ -30,5 +30,6 @@ It’s short for Collective Code Construction Contract. A contract, a protocol, 
 
 # Chat and Discussion 
 
+
 * [Discussion forum](https://github.com/c4social/c4social.org/discussions)
 * [Matrix chat](https://matrix.to/#/#c4social:matrix.org)
