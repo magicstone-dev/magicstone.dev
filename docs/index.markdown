@@ -6,30 +6,34 @@ layout: home
 title: Home
 ---
 
-# We are creating magic through evolution of the Fediverse
+# Creating magic through evolution of the Fediverse
 
-C4Social is employing C4 to accelerate the development of decentralized social media.
-
-# What is C4?
-
-It’s short for Collective Code Construction Contract. A contract, a protocol, a set of rules to a game we’re playing, C4 is for making accurate software on the internet.
+Our primary goal is to accelerate the development of decentralized social media. A novel development model is helps reduce bureaucracy so that contributors can do what they love and the software can adapt quickly to the market in which it operates. 
 
 [Learn more](/faq)
 
-# Enough chatter, show me the code.
+# How can I help?
 
-* [Mastodon Fork](https://github.com/c4social/mastodon)
-* [diaspora\* Fork](https://github.com/c4social/diaspora)
-* [c4-tools](https://github.com/c4social/c4-tools) for making your own C4 fork
-* [this site](https://github.com/c4social/c4social.org)
+* Try out the software and report any problems you find. A list of instances is available below. Each app has a link in the footer or sidebar to report issues.
+* Contribute by making a pull request. Documentation can be edited and submitted entirely on GitHub, though you are welcome to edit elsewhere and to commit changes by using Git.
+* Become a maintainer. No software development experience is necessary. Simply agree to the rules and have an hour or two available each week. No meetings required.
+* Start a new project. If you have an idea for federated free/libre and open source software, we can help you get your project going, whether it involves forking existing software or creating something brand new.
 
-# Where can I see it in action?
+For more info, see [Contributing](https://github.com/c4social/c4social.org/wiki/Contributing)
 
-* [Mastodon @ C4.social](https://c4.social) (open for registration)
-* [diaspora\* @ Dogieda](https://dogieda.org) (open for registration)
+# Instances / Pods
+
+* [C4.social](https://c4.social) (Mastodon, open for registration)
+* [Dogieda.org](https://dogieda.org) (diaspora\*, open for registration)
 
 # Chat and Discussion 
 
-
 * [Discussion forum](https://github.com/c4social/c4social.org/discussions)
 * [Matrix chat](https://matrix.to/#/#c4social:matrix.org)
+
+# Code repositories
+
+* [C4 Fork of Mastodon](https://github.com/c4social/mastodon)
+* [C4 Fork of diaspora\*](https://github.com/c4social/diaspora)
+* [c4-tools](https://github.com/c4social/c4-tools) for making your own C4 fork
+* [this site](https://github.com/c4social/c4social.org)
