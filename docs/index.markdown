@@ -8,7 +8,7 @@ title: Home
 
 # Creating magic through evolution of the Fediverse
 
-Our primary goal is to accelerate the development of decentralized social media. A novel development model is helps reduce bureaucracy so that contributors can do what they love and the software can adapt quickly to the market in which it operates. 
+Our primary goal is to accelerate the development of decentralized social media. A novel development model  helps reduce bureaucracy so that contributors can do what they love and software can adapt quickly to community needs. 
 
 [Learn more](/faq)
 
