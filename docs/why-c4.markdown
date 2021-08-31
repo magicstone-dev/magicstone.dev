@@ -1,4 +1,10 @@
-Why C4?
+---
+layout: page
+title: Why C4
+permalink: /why-c4/
+---
+
+## Why C4?
 
 Social media seems to be changing everything in the world except software development. Yes, there are memes and GitHub repos have stars, but we developers haven’t focused enough on building communities around software.
 
