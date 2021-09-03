@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: no-title-page
 title: FAQ
 permalink: /faq/
 ---
-
 ## Frequently Asked Questions
 
 # What is C4?
