@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no-title-page
 title: Why C4
 permalink: /why-c4/
 ---
