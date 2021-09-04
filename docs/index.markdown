@@ -8,8 +8,7 @@ title: Home
 
 # Creating magic through evolution of the Fediverse
 
-We want to see decentralized social media flourish. For that to happen, we need more people to get involved in improving and building what we're already using and to start new projects as well. This new project, C4Social is applying a novel development model so that everyone can contribute what they can and the software will grow to address community needs.
-
+We want to see decentralized social media flourish. For that to happen, we need more people to get involved in improving what we're already using and to start new projects as well. C4Social is applying a novel development model so that everyone can contribute their strengths to grow software along with the community.
 
 # How can I help?
 
