@@ -8,32 +8,35 @@ title: Home
 
 # Creating magic through evolution of the Fediverse
 
-Our primary goal is to accelerate the development of decentralized social media. A novel development model  helps reduce bureaucracy so that contributors can do what they love and software can adapt quickly to community needs. 
-
-[Learn more](/faq)
+We want to see decentralized social media flourish. For that to happen, we need more people to get involved in improving what we're already using and to start new projects as well. C4Social is applying a novel development model so that everyone can contribute their strengths to grow software along with the community.
 
 # How can I help?
 
-* Try out the software and report any problems you find. A list of instances is available below. Each app has a link in the footer or sidebar to report issues.
-* Contribute by making a pull request. Documentation can be edited and submitted entirely on GitHub, though you are welcome to edit elsewhere and to commit changes by using Git.
-* Become a maintainer. No software development experience is necessary. Simply agree to the rules and have an hour or two available each week. No meetings required.
-* Start a new project. If you have an idea for federated free/libre and open source software, we can help you get your project going, whether it involves forking existing software or creating something brand new.
+|Everyone|Instance Administrators|Contributors|
+|:----:|:----:|:----:|
+|  Try our live versions of 🦣 [Mastodon](https://c4.social) and <br />*️ [diaspora](https://dogieda.org) | Install your own from GitHub: [C4Social Mastodon](https://github.com/C4Social/mastodon)<br />[C4Social diaspora](https://github.com/C4Social/diaspora) | Introduce yourself in [Matrix chat](https://matrix.to/#/#c4social:matrix.org) or [Discussions](https://github.com/c4social/c4social.org/discussions) or check out our [Issues](https://github.com/C4Social/)|
 
-For more info, see [Contributing](https://github.com/c4social/c4social.org/wiki/Contributing)
 
-# Instances / Pods
+# Other things to know
 
-* [C4.social](https://c4.social) (Mastodon, open for registration)
-* [Dogieda.org](https://dogieda.org) (diaspora\*, open for registration)
+We just started in August 2021 so everything is very new and there are just a few of us involved so stay tuned and get in touch if you like early-stage projects.
+
+Our critical need for bootstrapping is for maintainers who can check in on pull requests a few times a week. If you're interested, ping David Sterry on [Mastodon](https://c4.social/@weex) or [diaspora](https://dogieda.org/people/43937430e739013980160242ac120005)
+
+For more info, see our [FAQ](/faq) and [Contributing](https://github.com/c4social/c4social.org/wiki/Contributing) 
 
 # Chat and Discussion 
 
 * [Discussion forum](https://github.com/c4social/c4social.org/discussions)
 * [Matrix chat](https://matrix.to/#/#c4social:matrix.org)
 
-# Code repositories
+# Wiki
 
-* [C4 Fork of Mastodon](https://github.com/c4social/mastodon)
-* [C4 Fork of diaspora\*](https://github.com/c4social/diaspora)
-* [c4-tools](https://github.com/c4social/c4-tools) for making your own C4 fork
+* [Wiki](https://github.com/c4social/c4social.org/wiki)
+
+# Code
+
+* [C4Social Mastodon](https://github.com/c4social/mastodon)
+* [C4Social diaspora](https://github.com/c4social/diaspora)
+* [Tools](https://github.com/c4social/c4-tools) for making your own fork
 * [this site](https://github.com/c4social/c4social.org)
