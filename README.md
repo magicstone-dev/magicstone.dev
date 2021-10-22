@@ -1,6 +1,6 @@
-# magicstone.dev 
+# Magic Stone - meta and website
 
-Hosting the content displayed on the project home page.
+This repo contains the content displayed on the project home page.
 
 Use this repo also to submit problems for the Community, which are not specific to any one software project.
 
