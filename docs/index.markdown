@@ -10,6 +10,8 @@ title: Home
 
 We want to see decentralized social media flourish. For that to happen, we need more people to get involved in improving what we're already using and to start new projects as well. Magic Stone is applying a novel development model so that everyone can contribute their strengths to grow software along with the community.
 
+For more on the project and its goals, [see the FAQ](/faq)
+
 # How can I help?
 
 |Everyone|Instance Administrators|Contributors|
