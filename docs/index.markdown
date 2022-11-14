@@ -6,26 +6,36 @@ layout: no-title-home
 title: Home
 ---
 
-# Creating magic through evolution of the Fediverse
+# Ecko - Social Networking for Humans
 
-We want to see decentralized social media flourish. For that to happen, we need more people to get involved in improving what we're already using and to start new projects as well. Magic Stone is applying a novel development model so that everyone can contribute their strengths to grow software along with the community.
+Ecko is a fork of Mastodon with extra features requested by the community. How does it compare?
 
-For more on the project and its goals, [see the FAQ](/faq)
+||Ecko|Mastodon|
+|:----|:----|:----|
+|[longer posts](/ecko-features#posts)|✅|❌|
+|[more poll choices](/ecko-features#poll)|✅|❌|
+|[local-only posts](/ecko-features#local)|✅|❌|
+|[easy favicon upload](/ecko-features#favicon)|✅|❌|
+|[highlights undescribed media](/ecko-features#undescribed)|✅|❌|
+|[blocklist import/export](/ecko-features#blocklist)|✅|❌|
+|[Yunohost support](/ecko-features#yunohost)|✅|✅|
+|Markdown formatting|✅|❌|
 
-# How can I help?
+# Get Involved 
 
 |Everyone|Instance Administrators|Contributors|
 |:----:|:----:|:----:|
 |  Try our live apps [Ecko](https://c4.social) and <br />[Acropolis](https://dogieda.org) | Install your own from GitHub: [Ecko](https://github.com/magicstone-dev/ecko)<br />[Acropolis](https://github.com/magicstone-dev/acropolis) | Introduce yourself in [our chat](https://matrix.to/#/#magicstone:matrix.org) or [discussion forum](https://github.com/magicstone-dev/magicstone.dev/discussions) or help out with an issue in any repo|
 
+# Creating magic through evolution of the Fediverse
 
-# Other things to know
+We want to see decentralized social media flourish. For that to happen, we want to involve more people in its evolution. Magic Stone is applying a novel development model so that everyone can contribute.
 
-This project started in August 2021 so everything is very new. There are just a few of us involved so stay tuned and get in touch if you like early-stage projects.
+For more on Magic Stone and its goals, [see the FAQ](/faq)
 
-Our critical need for bootstrapping is for maintainers who can check in on pull requests a few times a week. If you're interested, ping David Sterry ([https://c4.social/@weex](https://c4.social/@weex) or [https://dogieda.org/people/43937430e739013980160242ac120005](https://dogieda.org/people/43937430e739013980160242ac120005))
+# Contributing 
 
-For more info, see our [FAQ](/faq) and [Contributing](https://github.com/magicstone-dev/magicstone.dev/wiki/Contributing) 
+For more info, see [Contributing](https://github.com/magicstone-dev/magicstone.dev/wiki/Contributing) 
 
 # Chat and Discussion 
 
@@ -41,4 +51,4 @@ For more info, see our [FAQ](/faq) and [Contributing](https://github.com/magicst
 * [Ecko](https://github.com/magicstone-dev/ecko)
 * [Acropolis](https://github.com/magicstone-dev/acropolis)
 * [Tools](https://github.com/magicstone-dev/c4-tools) for making your own fork
-* [this site](https://github.com/magicstone-dev/magicstone.dev)
+* [This site](https://github.com/magicstone-dev/magicstone.dev)
