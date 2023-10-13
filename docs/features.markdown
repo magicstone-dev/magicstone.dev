@@ -9,6 +9,10 @@ permalink: /ecko-features/
 
 Posts, or toots, are limited to 500 characters by default but in Ecko this limit can be easily modified in the Administration settings.
 
+<h3 id="markdown">Markdown support</h3>
+
+Built-in Markdown support, using a safe Redcarpet library for Markdown processing.
+
 <h3 id="poll">More poll choices</h3>
 
 Polls are limited to 4 options by default but in Ecko more poll options can be allowed via Administration settings.
